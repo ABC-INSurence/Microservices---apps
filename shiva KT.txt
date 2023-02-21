@@ -1,0 +1,11 @@
+id-#
+class-.
+
+Sql Username & Pwd:
+dbadmin
+india@123456
+
+{
+    <add name="anzacademydbEntities" connectionString="metadata=res://*/Models.Model_SFIAInitiate.csdl|res://*/Models.Model_SFIAInitiate.ssdl|res://*/Models.Model_SFIAInitiate.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=anzsqlsvr.database.windows.net;initial catalog=anzacademydb;user id=dbadmin;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+
+}
